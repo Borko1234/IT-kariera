@@ -4,16 +4,11 @@ namespace ConsoleApp21
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            Console.WriteLine(new string('*', n));
-
-            for (int i = 1; i <= n - 1; i++)
-            {
-                Console.Write('*');
-                Console.Write(new string(' ', n - 2));
-                Console.WriteLine('*');
-            }
-            Console.WriteLine(new string('*', n));
+            string a=Console.ReadLine();
+    List<string> items = a.Split(' ').ToList();
+    List<int> nums = new List<int>();
+    for (int i = 0; i < items.Count; i++)
+        nums.Add(int.Parse(items[i]));
 
 
 
