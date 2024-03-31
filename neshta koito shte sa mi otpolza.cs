@@ -1,4 +1,2 @@
-//vuvejdane na list na edin red 
-items.RemoveAll(x => x%2!=0);
-
-Console.WriteLine(string.Join(" ", items));
+//link za sortirane na list po vsqkakuv nachin
+https://www.bytehide.com/blog/sorting-lists-csharp
