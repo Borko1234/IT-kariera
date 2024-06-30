@@ -1,0 +1,156 @@
+namespace BookLibrary
+{
+    public class BookLibrary
+    {
+        private string name;
+
+        private List<Book> books;
+
+        public BookLibrary(string name)
+
+        {
+
+            Name = name;
+            books = new List<Book>();
+
+        }
+
+        public string Name
+
+        {
+
+            get { return name; }
+            set { name = value; }
+        }
+
+        public List<Book> Books
+
+        {
+
+            get { return books; }
+            set {  books = value; }
+
+        }
+
+        public void AddBook(string title, double rating)
+
+        {
+
+            Book book = new Book(title, rating);
+            books.Add(book);
+        }
+
+        public double AverageRating()
+
+        {
+
+            double sum = 0;
+            for (int i = 0; i < books.Count; i++)
+            {
+                sum += books[i].Rating;
+            }
+            return sum / books.Count;
+            //return books.Average(book =>  book.Rating);
+
+        }
+
+        public List<string> GetBooksByRating(double rating)
+
+        {
+            //List<string> result = new List<string>();
+            //for (int i = 0; i < books.Count; i++)
+            //{
+            //    if (books[i].Rating > rating)
+            //    {
+            //        result.Add(books[i].ToString());
+            //    }
+            //}
+
+            return books
+                .Where(book => book.Rating > rating)
+                .Select(book =>book.Title)
+                .ToList();
+
+        }
+
+        public List<Book> SortByTitle()
+
+        {
+
+            bool swap = true;
+            while (swap)
+            {
+                swap = false;
+                for (int i = 0; i < books.Count - 1; i++) 
+                {
+                    if (books[i].Title.CompareTo(books[i+1].Title) > 0) 
+                    {
+                            Book book = books[i];
+                            books[i] = books[i+1];
+                            books[i + 1] = book;
+                            swap = true;
+                    }
+                }
+            }
+             
+             return books;
+
+        }
+
+        public List<Book> SortByRating()
+
+        {
+            for (int i = 0; i < books.Count; i++)
+            {
+                double max = books[i].Rating;
+                int maxRatingIndex = i;
+                for (int j = 0; j < books.Count; j++)
+                {
+                    if (books[j].Rating < max)
+                    {
+                        max = books[j].Rating;
+                        maxRatingIndex = j;
+                    }
+                }
+                Book book = books[i];
+                books[i] = books[maxRatingIndex];
+                books[maxRatingIndex] = book;
+            }
+            return books;
+            
+            //books = books
+            //    .OrderByDescending(item => item.Rating)
+            //    .ToList();
+            //return books;
+
+        }
+
+        public string[] ProvideInformationAboutAllBooks()
+
+        {
+
+            return books
+                .Select(book => book.ToString())
+                .ToArray();
+
+        }
+
+        public bool CheckBookIsInBookLibrary(string title)
+
+        {
+
+            for (int i = 0; i < books.Count; i++)
+            {
+                if (books[i].Title == title)
+                {
+                    return true;
+                }
+            }
+            return false;
+            //return books
+            //    .Where(item => item.Title == title)
+            //    .Any();
+
+        }
+    }
+}
