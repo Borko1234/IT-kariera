@@ -1,0 +1,7 @@
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\bin\Debug\uprajnenie interfeici.exe.config
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\bin\Debug\uprajnenie interfeici.exe
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\bin\Debug\uprajnenie interfeici.pdb
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\obj\Debug\uprajnenie interfeici.csproj.AssemblyReference.cache
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\obj\Debug\uprajnenie interfeici.csproj.CoreCompileInputs.cache
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\obj\Debug\uprajnenie interfeici.exe
+C:\Users\Borko\source\repos\uprajnenie interfeici\uprajnenie interfeici\obj\Debug\uprajnenie interfeici.pdb
