@@ -1,0 +1,7 @@
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\bin\Debug\abstrakciq.exe.config
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\bin\Debug\abstrakciq.exe
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\bin\Debug\abstrakciq.pdb
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\obj\Debug\abstrakciq.csproj.AssemblyReference.cache
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\obj\Debug\abstrakciq.csproj.CoreCompileInputs.cache
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\obj\Debug\abstrakciq.exe
+C:\Users\Borko\source\repos\abstrakciq\abstrakciq\obj\Debug\abstrakciq.pdb
