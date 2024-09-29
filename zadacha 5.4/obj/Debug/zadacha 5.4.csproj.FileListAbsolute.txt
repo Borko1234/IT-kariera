@@ -1,0 +1,7 @@
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\obj\Debug\zadacha 5.4.csproj.AssemblyReference.cache
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\obj\Debug\zadacha 5.4.csproj.CoreCompileInputs.cache
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\bin\Debug\zadacha 5.4.exe.config
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\bin\Debug\zadacha 5.4.exe
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\bin\Debug\zadacha 5.4.pdb
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\obj\Debug\zadacha 5.4.exe
+C:\Users\Borko\source\repos\zadacha 5.4\zadacha 5.4\obj\Debug\zadacha 5.4.pdb
