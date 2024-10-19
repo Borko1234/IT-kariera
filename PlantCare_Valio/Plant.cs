@@ -135,7 +135,7 @@ public abstract class Plant
         return $"Id: {Id}\n" +
             $"Name: {Name}\n" +
             $"Type: {Type}\n" +
-            $"Humidity Level: {HumidityLevel*100:0.00} %\n" +
-            $"Fertility Level: {FertilityLevel*100:0.00} %\n";
+            $"Humidity Level: {HumidityLevel:0.00} %\n" +
+            $"Fertility Level: {FertilityLevel:0.00} %\n";
     }
 }

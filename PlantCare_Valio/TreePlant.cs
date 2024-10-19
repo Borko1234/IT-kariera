@@ -26,7 +26,7 @@ public class TreePlant : Plant
 
     public override string ToString()
     {
-        return base.ToString() + $"Height: {Height}\n";
+        return base.ToString() + $"Height: {Height}";
     }
 }
 
