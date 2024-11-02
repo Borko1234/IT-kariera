@@ -1,0 +1,14 @@
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\bin\Debug\net8.0\LessonsFinder_New.exe
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\bin\Debug\net8.0\LessonsFinder_New.deps.json
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\bin\Debug\net8.0\LessonsFinder_New.runtimeconfig.json
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\bin\Debug\net8.0\LessonsFinder_New.dll
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\bin\Debug\net8.0\LessonsFinder_New.pdb
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.AssemblyInfoInputs.cache
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.AssemblyInfo.cs
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.csproj.CoreCompileInputs.cache
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.dll
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\refint\LessonsFinder_New.dll
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.pdb
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\LessonsFinder_New.genruntimeconfig.cache
+C:\Users\Borko\source\repos\LessonsFinder_New\LessonsFinder_New\obj\Debug\net8.0\ref\LessonsFinder_New.dll
