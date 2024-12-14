@@ -1,3 +1,4 @@
+use softuni
 1)
 SELECT
     E.FIRST_NAME,
@@ -15,4 +16,5 @@ ORDER BY
     E.LAST_NAME ASC
 LIMIT 5;
 2)
+
 
