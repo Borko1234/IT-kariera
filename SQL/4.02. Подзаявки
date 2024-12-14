@@ -1,0 +1,15 @@
+USE SOFTUNI;
+1)
+SELECT FIRST_NAME, LAST_NAME, SALARY
+FROM EMPLOYEES 
+WHERE Salary = (SELECT MIN(Salary) FROM Employees);
+2)
+SELECT First_Name, Last_Name, Salary
+FROM Employees
+WHERE Salary <= (SELECT MIN(Salary) FROM Employees) * 1.10
+ORDER BY Salary 
+3)
+SELECT First_Name, Last_Name, Job_Title
+FROM Employees
+WHERE Job_Title IN ('Master Scheduler', 'European Sales Manager', 'Production Supervisor')
+ORDER BY First_Name ASC, Last_Name ASC;
