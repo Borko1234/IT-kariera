@@ -1,7 +1,0 @@
-C:\Users\Borko\source\repos\Books\Books\bin\Debug\Books.exe.config
-C:\Users\Borko\source\repos\Books\Books\bin\Debug\Books.exe
-C:\Users\Borko\source\repos\Books\Books\bin\Debug\Books.pdb
-C:\Users\Borko\source\repos\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
-C:\Users\Borko\source\repos\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
-C:\Users\Borko\source\repos\Books\Books\obj\Debug\Books.exe
-C:\Users\Borko\source\repos\Books\Books\obj\Debug\Books.pdb
