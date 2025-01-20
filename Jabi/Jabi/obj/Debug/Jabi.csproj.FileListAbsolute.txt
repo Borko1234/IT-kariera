@@ -1,7 +1,0 @@
-C:\Users\Borko\source\repos\Jabi\Jabi\bin\Debug\Jabi.exe.config
-C:\Users\Borko\source\repos\Jabi\Jabi\bin\Debug\Jabi.exe
-C:\Users\Borko\source\repos\Jabi\Jabi\bin\Debug\Jabi.pdb
-C:\Users\Borko\source\repos\Jabi\Jabi\obj\Debug\Jabi.csproj.AssemblyReference.cache
-C:\Users\Borko\source\repos\Jabi\Jabi\obj\Debug\Jabi.csproj.CoreCompileInputs.cache
-C:\Users\Borko\source\repos\Jabi\Jabi\obj\Debug\Jabi.exe
-C:\Users\Borko\source\repos\Jabi\Jabi\obj\Debug\Jabi.pdb
